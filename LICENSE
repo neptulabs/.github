@@ -1,3 +1,6 @@
+==============================================================================
+The Neptune Framework is under the Apache License v2.0 with Neptune Exceptions:
+==============================================================================
 
                                  Apache License
                            Version 2.0, January 2004
@@ -201,9 +204,10 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 
-   --- Neptu Exceptions to the Apache 2.0 License ---
 
-As an exception to the Apache License, Version 2.0 (the "License"), Neptu, Inc. grants you additional rights as described in this section ("Neptu Exceptions") for code identified as part of the Neptune Framework ("Framework").
+--- Neptune Exceptions to the Apache 2.0 License ---
+
+As an exception to the Apache License, Version 2.0 (the "License"), Neptu, Inc. grants you additional rights as described in this section ("Neptune Exceptions") for code identified as part of the Neptune Framework ("Framework").
 
 1. Internal Use and Applications
 
