@@ -1,0 +1,16 @@
+name: "Question / usage"
+description: "Ask a question about how to use the Neptune framework"
+labels: ["type: question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What are you trying to understand or do?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Code snippets, config, or examples that help explain your question.
